@@ -121,7 +121,7 @@ font-family: Arial, Helvetica, sans-serif;
   background-color:yellow;
   border:4px dotted pink;
   padding: 1px;
-  margin-right:900px;
+  margin-right:200px;
   
 }
 #sum_tag{
@@ -130,14 +130,14 @@ color:grey;
 background-color:yellow;
 border:4px dotted pink;
 padding: 1px;
-margin-right:900px; }
+margin-right:200px; }
 
 #mon_tag{
   color:grey;
   background-color:yellow;
   border:4px dotted pink;
   padding: 1px;
-  margin-right: 800px;
+ margin-right: 200px; 
 }
 img {
   border:5px dashed maroon;
