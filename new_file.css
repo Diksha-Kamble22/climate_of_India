@@ -16,6 +16,7 @@ font-family: "Times new romen",'Times New Roman', Times, sans-serif;
   border: 50px solid darksalmon;
 }
 .tb_tag{
+  background-color: silver;
   border:5px solid green;
   padding:10px ;
 margin: 10px ;
